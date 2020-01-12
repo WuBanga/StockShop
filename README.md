@@ -1,6 +1,7 @@
 # StockShop
 
 Flask API for delivery service.
+
 Databases:
 1) Redis
 2) MongoDB
